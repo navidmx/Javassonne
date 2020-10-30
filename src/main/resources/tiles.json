@@ -1,0 +1,273 @@
+{
+    "tiles": [
+        {
+            "id": "A",
+            "top": "FIELD",
+            "right": "FIELD",
+            "bottom": "ROAD",
+            "left": "FIELD",
+            "center": "MONASTERY",
+            "amount": 2
+        },
+        {
+            "id": "B",
+            "top": "FIELD",
+            "right": "FIELD",
+            "bottom": "FIELD",
+            "left": "FIELD",
+            "center": "MONASTERY",
+            "amount": 4
+        },
+        {
+            "id": "C",
+            "top": "CITY",
+            "right": "CITY",
+            "bottom": "CITY",
+            "left": "CITY",
+            "center": "CITY",
+            "shield": true,
+            "links": [
+                ["top", "right", "bottom", "left", "center"]
+            ]
+        },
+        {
+            "id": "D",
+            "top": "ROAD",
+            "right": "CITY",
+            "bottom": "ROAD",
+            "left": "FIELD",
+            "center": "ROAD",
+            "links": [
+                ["top", "center", "bottom"]
+            ],
+            "amount": 4
+        },
+        {
+            "id": "E",
+            "top": "CITY",
+            "right": "FIELD",
+            "bottom": "FIELD",
+            "left": "FIELD",
+            "center": "FIELD",
+            "amount": 5
+        },
+        {
+            "id": "F",
+            "top": "FIELD",
+            "right": "CITY",
+            "bottom": "FIELD",
+            "left": "CITY",
+            "center": "CITY",
+            "shield": true,
+            "links": [
+                ["left", "center", "right"]
+            ],
+            "amount": 2
+        },
+        {
+            "id": "G",
+            "top": "CITY",
+            "right": "FIELD",
+            "bottom": "CITY",
+            "left": "FIELD",
+            "center": "CITY",
+            "links": [
+                ["top", "center", "bottom"]
+            ],
+            "amount": 1
+        },
+        {
+            "id": "H",
+            "top": "FIELD",
+            "right": "CITY",
+            "bottom": "FIELD",
+            "left": "CITY",
+            "center": "FIELD",
+            "amount": 3
+        },
+        {
+            "id": "I",
+            "top": "FIELD",
+            "right": "CITY",
+            "bottom": "CITY",
+            "left": "FIELD",
+            "center": "FIELD",
+            "amount": 2
+        },
+        {
+            "id": "J",
+            "top": "CITY",
+            "right": "ROAD",
+            "bottom": "ROAD",
+            "left": "FIELD",
+            "center": "FIELD",
+            "links": [
+                ["right", "bottom"]
+            ],
+            "amount": 3
+        },
+        {
+            "id": "K",
+            "top": "ROAD",
+            "right": "CITY",
+            "bottom": "FIELD",
+            "left": "ROAD",
+            "center": "FIELD",
+            "links": [
+                ["top", "left"]
+            ],
+            "amount": 3
+        },
+        {
+            "id": "L",
+            "top": "ROAD",
+            "right": "CITY",
+            "bottom": "ROAD",
+            "left": "ROAD",
+            "center": "FIELD",
+            "amount": 3
+        },
+        {
+            "id": "M",
+            "top": "CITY",
+            "right": "FIELD",
+            "bottom": "FIELD",
+            "left": "CITY",
+            "center": "FIELD",
+            "shield": true,
+            "links": [
+                ["top", "left"]
+            ],
+            "amount": 2
+        },
+        {
+            "id": "N",
+            "top": "CITY",
+            "right": "FIELD",
+            "bottom": "FIELD",
+            "left": "CITY",
+            "center": "FIELD",
+            "links": [
+                ["top", "left"]
+            ],
+            "amount": 3
+        },
+        {
+            "id": "O",
+            "top": "CITY",
+            "right": "ROAD",
+            "bottom": "ROAD",
+            "left": "CITY",
+            "center": "FIELD",
+            "shield": true,
+            "links": [
+                ["top", "left"],
+                ["bottom", "right"]
+            ],
+            "amount": 2
+        },
+        {
+            "id": "P",
+            "top": "CITY",
+            "right": "ROAD",
+            "bottom": "ROAD",
+            "left": "CITY",
+            "center": "FIELD",
+            "links": [
+                ["top", "left"],
+                ["bottom", "right"]
+            ],
+            "amount": 3
+        },
+        {
+            "id": "Q",
+            "top": "CITY",
+            "right": "CITY",
+            "bottom": "FIELD",
+            "left": "CITY",
+            "center": "CITY",
+            "shield": true,
+            "links": [
+                ["top", "right", "left", "center"]
+            ]
+        },
+        {
+            "id": "R",
+            "top": "CITY",
+            "right": "CITY",
+            "bottom": "FIELD",
+            "left": "CITY",
+            "center": "CITY",
+            "links": [
+                ["top", "right", "left", "center"]
+            ],
+            "amount": 3
+        },
+        {
+            "id": "S",
+            "top": "CITY",
+            "right": "CITY",
+            "bottom": "ROAD",
+            "left": "CITY",
+            "center": "CITY",
+            "shield": true,
+            "links": [
+                ["top", "right", "left", "center"]
+            ],
+            "amount": 2
+        },
+        {
+            "id": "T",
+            "top": "CITY",
+            "right": "CITY",
+            "bottom": "ROAD",
+            "left": "CITY",
+            "center": "CITY",
+            "links": [
+                ["top", "right", "left", "center"]
+            ],
+            "amount": 1
+        },
+        {
+            "id": "U",
+            "top": "ROAD",
+            "right": "FIELD",
+            "bottom": "ROAD",
+            "left": "FIELD",
+            "center": "ROAD",
+            "links": [
+                ["top", "center", "bottom"]
+            ],
+            "amount": 8
+        },
+        {
+            "id": "V",
+            "top": "FIELD",
+            "right": "FIELD",
+            "bottom": "ROAD",
+            "left": "ROAD",
+            "center": "ROAD",
+            "links": [
+                ["bottom", "center", "left"]
+            ],
+            "amount": 9
+        },
+        {
+            "id": "W",
+            "top": "FIELD",
+            "right": "ROAD",
+            "bottom": "ROAD",
+            "left": "ROAD",
+            "center": "FIELD",
+            "amount": 4
+        },
+        {
+            "id": "X",
+            "top": "ROAD",
+            "right": "ROAD",
+            "bottom": "ROAD",
+            "left": "ROAD",
+            "center": "FIELD"
+        }
+    ]
+}
