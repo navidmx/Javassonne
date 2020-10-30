@@ -103,4 +103,4 @@ jacocoTestReport {
 }
 
 apply plugin:'application'
-mainClassName = "edu.cmu.cs.cs214.hw4.RunGame"
+mainClassName = "com.navidmx.javassonne.RunGame"

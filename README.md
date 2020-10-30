@@ -3,10 +3,11 @@
 A Java and Swing implementation of the board game Carcassonne, where the goal is to build cities, roads, and monasteries by chaining together tiles.
 
 ### Running the game
-To run the game, simply execute `gradle run`.
+1. Build the game by executing `gradle build`
+2. Run the game by executing `gradle run`
 
 ### Preview
-![Javassonne GIF](https://github.com/navidmx/Javassonne/blob/preview.gif?raw=true)
+![Javassonne GIF](https://github.com/navidmx/Javassonne/blob/master/preview.gif?raw=true)
 
 ### Playing the game
 The game should function as a normal Carcassonne game, with the following steps:
