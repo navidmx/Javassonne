@@ -5,6 +5,9 @@ A Java and Swing implementation of the board game Carcassonne, where the goal is
 ### Running the game
 To run the game, simply execute `gradle run`.
 
+### Preview
+![Javassonne GIF](https://github.com/navidmx/Javassonne/blob/preview.gif?raw=true)
+
 ### Playing the game
 The game should function as a normal Carcassonne game, with the following steps:
 1. Select the number of players (2-5)
