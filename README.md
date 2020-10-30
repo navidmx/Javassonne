@@ -1,8 +1,9 @@
-# Javassonne
-Homework 4 Carcassonne Implementation for 17-214.
+![Javassonne Logo](https://github.com/navidmx/Javassonne/blob/master/src/main/resources/logo.png?raw=true)
+
+A Java and Swing implementation of the board game Carcassonne, where the goal is to build cities, roads, and monasteries by chaining together tiles.
 
 ### Running the game
-To run the game, simply execute `gradle run` or run the main function in the class `RunGame`.
+To run the game, simply execute `gradle run`.
 
 ### Playing the game
 The game should function as a normal Carcassonne game, with the following steps:
