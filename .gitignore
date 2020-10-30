@@ -2,9 +2,12 @@
 /build
 /.gradle
 /.idea
+.idea
 .gradle
 **/build/
 !src/**/build/
+.classpath
+.project
 
 # Ignore Gradle GUI config
 gradle-app.setting

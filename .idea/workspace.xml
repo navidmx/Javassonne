@@ -29,48 +29,7 @@
     <list default="true" id="9f1567a0-5de2-49c4-a8e7-fb551257399d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preview.gif" beforeDir="false" afterPath="$PROJECT_DIR$/preview.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/RunGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/RunGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/core/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/navidmx/javassonne/core/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/core/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/core/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/core/CityFeature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/core/CityFeature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/core/CompoundFeature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/core/CompoundFeature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/core/Coordinate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/core/Coordinate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/core/Direction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/core/Direction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/core/Feature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/core/Feature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/core/FeatureType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/core/FeatureType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/core/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/core/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/core/GameAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/core/GameAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/core/GameChangeListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/core/GameChangeListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/core/MonasteryFeature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/core/MonasteryFeature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/core/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/core/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/core/RoadFeature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/core/RoadFeature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/core/Segment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/core/Segment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/core/Tile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/core/Tile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/core/TileDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/core/TileDeck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/core/json/JSONConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/core/json/JSONConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/gui/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/gui/BoardPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/gui/DirectionListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/gui/DirectionListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/gui/EndScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/gui/EndScreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/gui/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/gui/GamePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/gui/ImageButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/gui/ImageButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/gui/MeepleSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/gui/MeepleSelector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/gui/Sidebar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/gui/Sidebar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/gui/StartScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/gui/StartScreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/gui/TileIcon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/gui/TileIcon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/gui/TileIconLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/gui/TileIconLocation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/hw4/gui/TransparentImageIcon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/navidmx/javassonne/gui/TransparentImageIcon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/edu/cmu/cs/cs214/hw4/core/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/edu/cmu/cs/cs214/hw4/core/TestBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/navidmx/javassonne/core/TestBoard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/edu/cmu/cs/cs214/hw4/core/TestCityFeature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/navidmx/javassonne/core/TestCityFeature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/edu/cmu/cs/cs214/hw4/core/TestGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/navidmx/javassonne/core/TestGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/edu/cmu/cs/cs214/hw4/core/TestMonasteryFeature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/navidmx/javassonne/core/TestMonasteryFeature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/edu/cmu/cs/cs214/hw4/core/TestRoadFeature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/navidmx/javassonne/core/TestRoadFeature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/edu/cmu/cs/cs214/hw4/core/TestTile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/navidmx/javassonne/core/TestTile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/edu/cmu/cs/cs214/hw4/core/TestTileDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/navidmx/javassonne/core/TestTileDeck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,22 +52,22 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="17-214 Homework 4" type="f1a62948:ProjectNode" />
+                <item name="Javassonne" type="f1a62948:ProjectNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="17-214 Homework 4" type="f1a62948:ProjectNode" />
+                <item name="Javassonne" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="17-214 Homework 4" type="f1a62948:ProjectNode" />
+                <item name="Javassonne" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="build" type="c8890929:TasksNode$1" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="17-214 Homework 4" type="f1a62948:ProjectNode" />
+                <item name="Javassonne" type="f1a62948:ProjectNode" />
                 <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
               </path>
             </expand>
